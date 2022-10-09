@@ -1,5 +1,5 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<br>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)  
+
 >`Who am I?`
 
 <h3 align="center">
@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+https://media3.giphy.com/media/FJN7uglupaacGQfOBa/200w.webp?cid=ecf05e47t564lckqsm0qg9h9t7lfbdn7nj4n7l7te07rugis&rid=200w.webp&ct=s+Tanveer+Kaur;Under-grad+CS+Student;Aspiring+Enthusiast;Key+interests+-->;Web+Dev;Graphic-Designing;aesthetic+artist%3C3;and+much+more..."></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Tanveer+Kaur;Under-grad+CS+Student;Aspiring+Enthusiast;Key+interests+-->;Web+Dev;Graphic-Designing;aesthetic+artist%3C3;and+much+more..."></a>
 </p>
 
 ---
