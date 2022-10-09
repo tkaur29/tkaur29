@@ -12,11 +12,18 @@
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I am an enthusiastic undergrad always up for learning
-My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently taking a course on building AI chatbots with Python!) and love to read, run, and
+I am an enthusiastic undergrad aspiring to be a Full Stack Developer.I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.
+
+>Briefing on my Skills
+- 🌱 I’m currently learning ...
+  - NextJs
+  - C language
+  - AI tools
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, I love to read, create art works, listen to music, explore nature outdoors.
 
 <!-- **tkaur29/tkaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 
 
 Here are some ideas to get you started:
