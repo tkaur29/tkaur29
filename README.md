@@ -1,6 +1,6 @@
 > Hi there `<coders>` 
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://e1.pngegg.com/pngimages/407/502/png-clipart-siluetas-de-tinkerbell-thumbnail.png)
 
 **tkaur29/tkaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
