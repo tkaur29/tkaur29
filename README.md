@@ -12,16 +12,16 @@
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I am an enthusiastic undergrad aspiring to be a Full Stack Developer.I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.
+I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.
 
->Briefing on my Skills<br>
+><h3 fontcolor="Blue">Briefing on my Skills</h3><br>
 - pronouns: "she" | "her"
 - `code : Javascript, HTML, CSS, Python, MySQl`
-- `tools : React, NextJs, Pandas, Matplotlib, Canva`
+- `tools : React, Pandas, Matplotlib, Canva`
 - `I’m currently learning ...`
-  `- Next Js`
-  `- C language`
-  `- AI tools`
+  -`Next Js`
+  -`C language`
+  -`AI tools`
 - Studying Computer Science at Guru Nanak Dev University Amritsar.
 - Exploring new technologies and developing programming insights.
 - Looking forward to collaborate on open source projects.
