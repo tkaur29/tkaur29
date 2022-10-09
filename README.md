@@ -14,7 +14,7 @@
 
 I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.
 
-><h3 fontcolor="Blue">Briefing on my Skills</h3><br>
+>### <font color="red">Briefing on my Skills</font>
 - pronouns: "she" | "her"
 - `code : Javascript, HTML, CSS, Python, MySQl`
 - `tools : React, Pandas, Matplotlib, Canva`
