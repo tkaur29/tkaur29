@@ -1,6 +1,7 @@
-> Hi there `<coders>` 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-![The San Juan Mountains are beautiful!](https://e1.pngegg.com/pngimages/407/502/png-clipart-siluetas-de-tinkerbell-thumbnail.png)
+## Who am I?
+
 
 **tkaur29/tkaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
