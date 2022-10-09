@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png):fire:
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 >### `Who am I?`
 <h3 align="center">
@@ -10,7 +10,10 @@
 </p>
 
 ---
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+I am an enthusiastic undergrad always up for learning
+My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently taking a course on building AI chatbots with Python!) and love to read, run, and
 
 <!-- **tkaur29/tkaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
