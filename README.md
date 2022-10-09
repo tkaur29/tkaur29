@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-### >`Who am I?`
+>`Who am I?`
 
 <h3 align="center">
   Welcome to Tanveer Kaur's profile!
