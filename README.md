@@ -14,26 +14,17 @@
 
 I am an enthusiastic undergrad aspiring to be a Full Stack Developer.I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.
 
->Briefing on my Skills
-- 🌱 I’m currently learning ...
-  - NextJs
-  - C language
-  - AI tools
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love to read, create art works, listen to music, explore nature outdoors.
+>Briefing on my Skills<br>
+- pronouns: "she" | "her"
+- `code : Javascript, HTML, CSS, Python, MySQl`
+- `tools : React, NextJs, Pandas, Matplotlib, Canva`
+- `I’m currently learning ...`
+  `- Next Js`
+  `- C language`
+  `- AI tools`
+- Studying Computer Science at Guru Nanak Dev University Amritsar.
+- Exploring new technologies and developing programming insights.
+- Looking forward to collaborate on open source projects.
+- Outside tech, I love to read, create art works(_pretty good hold on Graphic stuff_), listen to music, explore nature.
 
-<!-- **tkaur29/tkaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
