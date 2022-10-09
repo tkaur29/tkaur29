@@ -1,7 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)  
 
 >### `Who am I?`
-
 <h3 align="center">
   <em>Welcome to Tanveer Kaur's profile!</em>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
