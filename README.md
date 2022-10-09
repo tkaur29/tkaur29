@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png).<br>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)\<br>
 
 >### `Who am I?`
 <h3 align="center">
