@@ -107,7 +107,9 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <a href="https://www.snapchat.com/add/tkaur098" >
   <img align="center" alt="Tanveer Kaur | Snapchat" width="30px" src="https://i.pinimg.com/originals/2a/44/40/2a44402244676e25c0e3ecce06625374.png" />
 </a> &nbsp;&nbsp;
-
+<a href="https://t.me/tanveerkaur29" >
+  <img align="center" alt="Tanveer Kaur | Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+</a> &nbsp;&nbsp;
 
 
 
