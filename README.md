@@ -101,7 +101,7 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <a href="fortanveer29@gmail.com" >
   <img align="center" alt="Tanveer Kaur | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="#" >
+<a href="https://api.whatsapp.com/send/?phone=916239938184&text&type=phone_number&app_absent=0" >
   <img align="center" alt="Tanveer Kaur | Whatsapp" width="26px" src="https://assets.webiconspng.com/uploads/2017/09/Whatsapp-PNG-Image-28638.png" />
 </a> &nbsp;&nbsp;
 
