@@ -11,7 +11,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
->### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+>## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working a NextJs based Website) and love to take up challenges.<br>
 
@@ -33,7 +33,7 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+>## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <br>
 
@@ -77,6 +77,16 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 </p>  
 <br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+>## Github Stats  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tkaur29&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
+|---|---|
+<p  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaur29&layout=compact&theme=github_dark"/>
 
 
 
