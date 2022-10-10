@@ -85,8 +85,8 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 
 <img src="https://github-readme-stats.vercel.app/api?username=tkaur29&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
 |---|---|
-<p  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaur29&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaur29&layout=compact&theme=github_dark"/>|<div align=center><h3><b>📍 Profile Visitor Count</b></h3><img src="https://profile-counter.glitch.me/DHANOLA/count.svg" /></div>  
+</p>
 
 
 
