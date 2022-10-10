@@ -92,6 +92,19 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 >## Connect with Me
+<a href="https://www.linkedin.com/in/tanveerk29/" target="_blank">
+  <img align="center" alt="Tanveer Kaur | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/tanveer_kaur29/" target="_blank">
+  <img align="center" alt="Tanveer Kaur | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="fortanveer29@gmail.com" >
+  <img align="center" alt="Tanveer Kaur | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="#" >
+  <img align="center" alt="Tanveer Kaur | Whatsapp" width="26px" src="https://assets.webiconspng.com/uploads/2017/09/Whatsapp-PNG-Image-28638.png" />
+</a> &nbsp;&nbsp;
+
 
 
 
