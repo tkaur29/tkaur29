@@ -104,6 +104,9 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
 <a href="https://api.whatsapp.com/send/?phone=916239938184&text&type=phone_number&app_absent=0" >
   <img align="center" alt="Tanveer Kaur | Whatsapp" width="26px" src="https://assets.webiconspng.com/uploads/2017/09/Whatsapp-PNG-Image-28638.png" />
 </a> &nbsp;&nbsp;
+<a href="https://www.snapchat.com/add/tkaur098" >
+  <img align="center" alt="Tanveer Kaur | Snapchat" width="26px" src="https://i.pinimg.com/originals/2a/44/40/2a44402244676e25c0e3ecce06625374.png" />
+</a> &nbsp;&nbsp;
 
 
 
