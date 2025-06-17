@@ -102,7 +102,7 @@ I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am a
   <img align="center" alt="Tanveer Kaur | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send/?phone=916239938184&text&type=phone_number&app_absent=0" >
-  <img align="center" alt="Tanveer Kaur | Whatsapp" width="26px" src="https://assets.webiconspng.com/uploads/2017/09/Whatsapp-PNG-Image-28638.png" />
+  <img align="center" alt="Tanveer Kaur | Whatsapp" width="32px" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" />
 </a> &nbsp;&nbsp;
 <a href="https://t.me/tanveerkaur29" >
   <img align="center" alt="Tanveer Kaur | Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
