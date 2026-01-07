@@ -41,6 +41,14 @@ I am a **UI/UX Designer** and **Full Stack Developer** aspiring to grow every da
 <br>
 
 <p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" /></a>
+&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" height="25"/></a>
+</p>
+
+<p align="center">
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" /></a>
 &nbsp;
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" /></a>
@@ -48,14 +56,6 @@ I am a **UI/UX Designer** and **Full Stack Developer** aspiring to grow every da
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" /></a>
-</p>
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/></a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" /></a>
-&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" height="25"/></a>
 </p>
 
 <p align="center">
